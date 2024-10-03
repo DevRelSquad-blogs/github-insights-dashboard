@@ -1,7 +1,7 @@
 
 # GitHub Insights Dashboard
 
-A Python-based dashboard that retrieves insights (Stars, Forks, Pull Requests, Issues) from GitHub repositories using the GitHub GraphQL API.
+A simple Python app that uses the GitHub GraphQL API to fetch and visualize repo insights in a dashboard. For a detailed guide and practical use cases, check out this article on building a [GitHub Insights Dashboard](https://www.devrelsquad.com/post/building-a-github-insights-dashboard-using-graphql-api-a-step-by-step-guide).
 
 ## Features
 - Fetches repository insights using GitHub's GraphQL API.
@@ -52,4 +52,4 @@ pip install -r requirements.txt
   - Issues
 - The data is visualized using a bar chart.
 
-
+If you would like more information on generating custom reports, please refer to the practical guide in [this article](https://www.devrelsquad.com/post/building-a-github-insights-dashboard-using-graphql-api-a-step-by-step-guide).
